@@ -15,5 +15,3 @@ module.exports = function searchProducts () {
       })
   }
 }
-
-#Comment test PR
